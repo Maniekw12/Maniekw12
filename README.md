@@ -21,7 +21,7 @@ A **Java implementation** of the classic **T9 text input system**, simulating ho
 A **Java-based simulator** that mimics real-world currency exchange operations, including real-time rate fetching and conversion.
 
 ### 🌳 [Red-Black Tree Implementation](https://github.com/Maniekw12/Red-Black-Tree-implementation)  
-A **data structure project** implementing a **Red-Black Tree** in Java, showcasing self-balancing binary search trees for efficient data management.
+A **data structure project** implementing a **Red-Black Tree** in C++, showcasing self-balancing binary search trees for efficient data management.
 
 ### 💻 [LeetCode Solutions](https://github.com/Maniekw12/LeetCode_Solutions)  
-A collection of **solutions to algorithm challenges** from **LeetCode**, demonstrating problem-solving skills in **data structures and algorithms**.
+A collection of **solutions to algorithm challenges** from **LeetCode**.
