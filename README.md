@@ -14,6 +14,11 @@ I'm passionate about learning and problem-solving.
 
 ## 📂 **Featured Projects**
 
+
+### 🏛 [Swift Codes API](https://github.com/Maniekw12/SwiftCodesAPI)  
+**A project developed in Java** using the Spring Boot framework, designed to interact with Swift codes. It parses and validates Swift code data, offering functionalities to retrieve, add, and delete entries from the database. The application is equipped with unit tests, utilizing Mockito for testing purposes.
+
+
 ### 📱 [T9 System](https://github.com/Maniekw12/T9-system)  
 A **Python implementation** of the classic **T9 text input system**, simulating how early mobile phones converted keypress sequences into words.
 
