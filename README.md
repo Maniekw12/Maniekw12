@@ -14,6 +14,8 @@ I'm passionate about learning and problem-solving.
 
 ## 📂 **Featured Projects**
 
+### 📚 [To Read App](https://github.com/Maniekw12/ToReadApp)  
+**A project developed in Java 17** using the Spring Boot framework. The application helps users track their progress in reading books. You can create a 'To Read' list, prioritize books, and manage your reading queue. It also stores books you've already read, so you can track how many you've completed. The app uses **PostgreSQL** for database storage and is containerized with **Docker**.
 
 ### 🏛 [Swift Codes API](https://github.com/Maniekw12/SwiftCodesAPI)  
 **A project developed in Java** using the Spring Boot framework, designed to interact with Swift codes. It parses and validates Swift code data, offering functionalities to retrieve, add, and delete entries from the database. The application is equipped with unit tests, utilizing Mockito for testing purposes.
