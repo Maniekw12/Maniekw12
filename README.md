@@ -9,7 +9,7 @@ I'm passionate about learning and problem-solving.
 📚 Constantly learning and exploring new technologies to improve my skills.  
 
 ### 🛠️ **Technologies & Tools I Use**  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&langs_count=5&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&exclude_repo=Introduction-to-Data-Science&langs_count=5&layout=compact&theme=radical)
 
 
 ## 🔗 **Connect with Me**
