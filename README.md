@@ -9,10 +9,8 @@ I'm passionate about learning and problem-solving.
 📚 Constantly learning and exploring new technologies to improve my skills.  
 
 ### 🛠️ Technologies & Tools I Use
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&layout=compact&theme=radical&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&layout=compact&theme=radical)](https://github.com/Maniekw12/github-readme-stats)
 
-### 🐍 GitHub Snake
-![Snake animation](https://raw.githubusercontent.com/Maniekw12/Maniekw12/main/output/github-contribution-grid-snake.svg)
 
 
 ## 🔗 **Connect with Me**
