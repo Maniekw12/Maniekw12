@@ -8,8 +8,11 @@ I'm passionate about learning and problem-solving.
 💻 Passionate about **Java**, **data structures**, and **algorithms**.  
 📚 Constantly learning and exploring new technologies to improve my skills.  
 
-### 🛠️ **Technologies & Tools I Use**  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&exclude_repo=Introduction-to-Data-Science&langs_count=5&layout=compact&theme=radical)
+### 🛠️ Technologies & Tools I Use
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&layout=compact&theme=radical)
+
+### 🐍 GitHub Snake
+![Snake animation](https://github.com/Maniekw12/Maniekw12/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🔗 **Connect with Me**
