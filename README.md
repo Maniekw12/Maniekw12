@@ -9,8 +9,7 @@ I'm passionate about learning and problem-solving.
 📚 Constantly learning and exploring new technologies to improve my skills.  
 
 ### 🛠️ Technologies & Tools I Use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&layout=compact&theme=radical)](https://github.com/Maniekw12/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniekw12&layout=compact&theme=radical&hide=html,jupyter%20notebook)](https://github.com/Maniekw12/github-readme-stats)
 
 
 ## 🔗 **Connect with Me**
