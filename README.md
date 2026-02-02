@@ -13,7 +13,6 @@ I'm passionate about learning and problem-solving.
 
 
 ## 🔗 **Connect with Me**
-- 💼 [LinkedIn](https://www.linkedin.com/in/marian-wachala/)
 - 📧 Email: wachala.marian@gmail.com
 
 ## 📂 **Featured Projects**
