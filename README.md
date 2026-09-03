@@ -2,6 +2,8 @@
 
 <img width="1280" height="640" alt="4574455" src="https://github.com/user-attachments/assets/4a70790f-6e19-4ce1-801d-2a62baa464f8" />
 
+--- 
+
 ## Hi there 👋
 Welcome to my GitHub profile! I'm a Java Software Engineer at Grid Dynamics and an aspiring programmer with a strong interest in data structures and algorithms. ☕️
 
@@ -33,3 +35,4 @@ A **data structure project** implementing a **Red-Black Tree** in C++, showcasin
 ### 💻 [LeetCode Solutions](https://github.com/M4n13KK/LeetCode_Solutions)  
 A collection of **solutions to algorithm challenges** from **LeetCode**.
 
+---
