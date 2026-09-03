@@ -1,6 +1,6 @@
 ---
 
-<img width="1280" height="640" alt="4574455" src="https://github.com/user-attachments/assets/4a70790f-6e19-4ce1-801d-2a62baa464f8" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_wv35lxwv35lxwv35" src="https://github.com/user-attachments/assets/b6725698-27ee-46b4-b72b-ed56a52ad921" />
 
 --- 
 
